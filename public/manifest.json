@@ -1,6 +1,6 @@
 {
-  "name": "Diego Sousa Boilerplate",
-  "short_name": "Boilerplate",
+  "name": "Travel Wish List",
+  "short_name": "Travel Wish List",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -19,5 +19,5 @@
   "start_url": "/",
   "display": "fullscreen",
   "orientation": "portrait",
-  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components!"
+  "description": "Lista de lugares e desejos de viagem"
 }
